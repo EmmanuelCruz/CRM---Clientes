@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Emmanuel",
+      "empresa": "Quo",
+      "email": "emmanuel_cruzh@ciencias.unam.mx",
+      "telefono": "5529484167",
+      "notas": "Mis notas",
+      "id": 1
+    }
+  ]
+}
