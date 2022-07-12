@@ -1,68 +1,12 @@
 {
   "clientes": [
     {
-      "nombre": "Emmanuel",
-      "empresa": "Quo",
+      "nombre": "Emmanuel Cruz",
+      "empresa": "--- Quo ---",
       "email": "emmanuel_cruzh@ciencias.unam.mx",
-      "telefono": "5529484167",
-      "notas": "Mis notas",
-      "id": 1
-    },
-    {
-      "nombre": "Emmanuel",
-      "empresa": "Quo",
-      "email": "emmanuel_cruzh@ciencias.unam.mx",
-      "telefono": "5529484167",
-      "notas": "Mis notas",
-      "id": 2
-    },
-    {
-      "nombre": "Emmanuel",
-      "empresa": "Quo",
-      "email": "emmanuel_cruzh@ciencias.unam.mx",
-      "telefono": "5529484167",
-      "notas": "Mis notas",
-      "id": 3
-    },
-    {
-      "nombre": "Emmanuel",
-      "empresa": "Quo",
-      "email": "emmanuel_cruzh@ciencias.unam.mx",
-      "telefono": "5529484167",
-      "notas": "Mis notas",
-      "id": 4
-    },
-    {
-      "nombre": "Emmanuel",
-      "empresa": "Quo",
-      "email": "emmanuel_cruzh@ciencias.unam.mx",
-      "telefono": "5529484167",
-      "notas": "Mis notas",
-      "id": 5
-    },
-    {
-      "nombre": "Emmanuel",
-      "empresa": "Quo",
-      "email": "emmanuel_cruzh@ciencias.unam.mx",
-      "telefono": "5529484167",
-      "notas": "Mis notas",
-      "id": 6
-    },
-    {
-      "nombre": "Funko Pop! ",
-      "empresa": "Quo",
-      "email": "emmanuel_loco73@hotmail.com",
-      "telefono": "5529484167",
-      "notas": "Funko",
-      "id": 7
-    },
-    {
-      "nombre": "Ipod 6 Plus Pro",
-      "empresa": "Quo",
-      "email": "monse_3e@hotmail.com",
-      "telefono": "5529484167",
-      "notas": "",
-      "id": 8
+      "telefono": "7410852963",
+      "notas": "Notas del cliente Emmanuel Cruz",
+      "id": 9
     }
   ]
 }
