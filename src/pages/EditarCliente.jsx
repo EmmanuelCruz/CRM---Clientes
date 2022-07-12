@@ -12,7 +12,7 @@ const EditarCliente = () => {
         setCargando(!cargando)
         const obtenCliente = async () => {
             try {
-                const respuesta = await fetch(`http://localhost:4000/clientes/${id}`)
+                const respuesta = await fetch(`${import.meta.env.VITE_URL_CLIENTES}/${id}`)
                 const resultado = await respuesta.json()
                 setCliente(resultado)
             } catch (error) {

@@ -3,12 +3,14 @@ import Cliente from '../components/Cliente'
 
 const Inicio = () => {
 
+    console.log(import.meta.env.VITE_URL_CLIENTES)
+
     const [clientes, setClientes] = useState([])
 
     useEffect(() => {
         const getClients = async () => {
             try {
-                const url = 'http://localhost:4000/clientes'
+                const url = import.meta.env.VITE_URL_CLIENTES
                 const response = await fetch(url)
                 const resultado = await response.json()
                 setClientes(resultado)
@@ -24,7 +26,7 @@ const Inicio = () => {
 
         if(confirmacion){
             try {
-                const url = `http://localhost:4000/clientes/${id}`
+                const url = `${import.meta.env.VITE_URL_CLIENTES}/${id}`
                 const respuesta = await fetch(url, {
                     method: 'DELETE',
                 })
